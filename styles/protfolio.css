@@ -181,5 +181,10 @@ main{
 .contact a{
     text-decoration: none;
 }
-
-
+.btn{
+   border-radius: 5px;
+   font-size: 20px;
+   background: #FD6E0A;
+   color: #FFFFFF;
+   padding: 18px 10px;
+}
